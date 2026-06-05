@@ -16,4 +16,8 @@ Just a place to store files for Math 9 Final project.
 
 3. What subgroup of students are the most likely to drop out?
 
+- Does the age of enrollment correlate with the likelihood of dropping out? 
+- How does marital status and gender influence the dropout rate? 
+- How do parental education levels affect the probability of dropping out? 
+- Does the number of curriculum units a student fails to evaluate, serve as an early warning sign for dropping out? 
 4. TBD
