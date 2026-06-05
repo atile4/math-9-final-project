@@ -10,9 +10,10 @@ Just a place to store files for Math 9 Final project.
 - How predictive are 1st-semester metrics of final outcome?
 - Does the previous qualification predict first-year performance?
 - Do parents' previous qualifications affect dropout rate?
+- How much of an effect does daytime/nighttime attendance affect performance?
 
 2. What is the relationship between number of curricular units approved in semester 1 vs semester 2 and dropout?
 
-3.
+3. What subgroup of students are the most likely to drop out?
 
 4. TBD
