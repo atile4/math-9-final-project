@@ -14,6 +14,12 @@ Just a place to store files for Math 9 Final project.
 
 2. What is the relationship between number of curricular units approved in semester 1 vs semester 2 and dropout?
 
-3. What subgroup of students are the most likely to drop out?
+3. What demographic and academic factors are most strongly associated with student dropout?
+
+- Does age at enrollment correlate with student dropout? 
+- How do gender and marital status influence student outcomes? 
+- How does parental education level relate to student dropout? 
+- Can academic performance indicators serve as early warning signs of student dropout? 
+- Which factor appears to be the strongest predictor of student dropout? 
 
 4. TBD
