@@ -1,25 +1,15 @@
 # Math 9 Final Project Repo
 
-Just a place to store files for Math 9 Final project.
+## Description
 
-## Guiding Questions
+In this project, we analyzed a dataset on student dropout and academic success. We chose this because we were curious on what factors would contribute the most to the success/failure of a student, which could then benefit more future decisions in our lives.
 
-1. What factors (that a student can/can't control) contribute the most to a student's academic outcomes?
+[Dataset](https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success)
 
-- Are students with scholarships more likely to graduate than students without scholarships
-- How predictive are 1st-semester metrics of final outcome?
-- Does the previous qualification predict first-year performance?
-- Do parents' previous qualifications affect dropout rate?
-- How much of an effect does daytime/nighttime attendance affect performance?
+## Setup
 
-2. What is the relationship between number of curricular units approved in semester 1 vs semester 2 and dropout?
+Pray you have a compatible version of Python. We used version `3.14.5` and `3.13` and it turned out fine.
 
-3. What demographic and academic factors are most strongly associated with student dropout?
+pip install seaborn, pandas, matplotlib, and numpy manually.
 
-- Does age at enrollment correlate with student dropout? 
-- How do gender and marital status influence student outcomes? 
-- How does parental education level relate to student dropout? 
-- Can academic performance indicators serve as early warning signs of student dropout? 
-- Which factor appears to be the strongest predictor of student dropout? 
-
-4. TBD
+When pushing changes from report.ipynb, make sure you **clear the outputs** before pushing, otherwise version control will be painful.
